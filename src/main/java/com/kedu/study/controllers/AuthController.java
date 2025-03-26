@@ -40,6 +40,9 @@ public class AuthController {
 	}
 	
 	
+	public void a() {
+		System.out.println("a");
+	}
 	
 	
 }
